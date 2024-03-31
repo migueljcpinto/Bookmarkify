@@ -1,6 +1,6 @@
 # Bookmarkify
 
-#### Video Demo: [Demo Video](https://www.youtube.com/watch?v=your-demo-video-id)
+#### Video Demo: [Demo Video](https://youtu.be/Yb7f1uxZ4l0)
 
 #### Description:
 
